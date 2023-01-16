@@ -7,11 +7,6 @@ Olá, sou o Gabriel, atualmente sou estudante de analise e desvolvimento de sist
  <p> •  Curso em Video: PHP, PHP POO: [80 horas]-Certificado. </br></p>
  <p>•  Curso em Video:  JavaScript: [40 horas]-Certificado. </br></p>
 
-<div align="center">
-  <a href="https://github.com/gabrielferroni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielferroni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferroni&layout=compact&langs_count=7&theme=dark"/></br>
-</div>
- <div>
+  <div>
   <a href="https://www.linkedin.com/in/gabriel-paiva-1a2b1718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
