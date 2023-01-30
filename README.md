@@ -4,7 +4,8 @@ Olá, sou o Gabriel, atualmente sou estudante de analise e desvolvimento de sist
 
 <h2> Meus Certificados </h2>
  <p>•  Curso em Video: HTML5 e CSS3: Módulo 5 de 5 [200 horas]-Certificado. </br></p>
- <p>•  Curso em Video: PHP, PHP POO: [80 horas]-Certificado. </br></p>
+ <p>•  Curso em Video: PHP: [40 horas]-Certificado. </br></p>
+ <p>•  Curso em Video: PHP POO: [40 horas]-Certificado. </br></p>
  <p>•  Curso em Video:  JavaScript: [40 horas]-Certificado. </br></p>
  <p>•  Curso em Video:  Mysql: [40 horas]-Certificado. </br></p>
  
