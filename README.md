@@ -21,7 +21,11 @@
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-MySQL" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt+"PHP" hegth="60" width="60" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div>
+ 
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/gabrielferroni/count.svg" /></p>
  <br>
  
  <div align="center">
