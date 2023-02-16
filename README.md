@@ -1,6 +1,11 @@
 
-
 <h1>Olá, sou o Gabriel Ferroni! 👋</h1>
+
+<p>Olá, sou o Gabriel Ferroni, atualmente moro em São José dos campos-SP, sou estudante de analise e desenvolvimento de sistemas na univerdade paulista (UNIP).</br>
+
+Atualmente venho me desenvolvendo em front end nas linguagens de marcaçao HTML5 e CSS3, junto com as linguagens de programação PHP, JavaScrip e o banco de dados MYSQL onde me dedico totalmente na melhora das minhas habilidades e framework.</br>
+
+Gosto de novos desafios e procuro sempre me aperfeiçoar nas áreas de conhecimento, buscando cada vez mais um ótimo desenvolvimento da minha função.</br></p>
 
 <h2> Meus Certificados </h2>
  <p>•  Curso em Video: HTML5 e CSS3: Módulo 5 de 5 [200 horas]-Certificado. </br></p>
