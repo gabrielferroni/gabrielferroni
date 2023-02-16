@@ -7,6 +7,11 @@ Atualmente venho me desenvolvendo em front end nas linguagens de marcaçao HTML5
 
 Gosto de novos desafios e procuro sempre me aperfeiçoar nas áreas de conhecimento, buscando cada vez mais um ótimo desenvolvimento da minha função.</br></p>
 
+ <div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-paiva-1a2b1718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
+
 <h2> Meus Certificados </h2>
  <p>•  Curso em Video: HTML5 e CSS3: Módulo 5 de 5 [200 horas]-Certificado. </br></p>
  <p>•  Curso em Video: PHP: [40 horas]-Certificado. </br></p>
@@ -33,9 +38,7 @@ Gosto de novos desafios e procuro sempre me aperfeiçoar nas áreas de conhecime
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/gabrielferroni/count.svg" /></p>
  <br>
  
- <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-paiva-1a2b1718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
  
 
   
