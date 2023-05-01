@@ -46,6 +46,12 @@ Gosto de novos desafios e procuro sempre me aperfeiçoar nas áreas de conhecime
  <li>Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns [146 horas]-<strong>Em andamento.</strong>
  </ul>
  
+  <br>
+  
+  <h2>BootCamp</h2>
+ <ul>
+ <li>Potência Tech Angular Developer - Powered by iFood [75 horas] - <a href="https://www.dio.me/certificate/B90D5513/share"> Certificado.</a></p>
+ 
  <br>
  
   <div align="center">
