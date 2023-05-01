@@ -70,11 +70,10 @@ Gosto de novos desafios e procuro sempre me aperfeiçoar nas áreas de conhecime
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielferroni&show_icons=true&theme=midnight-purple&count_private=true&locale=en" alt="gabrielferroni" />
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferroni&layout=compact&langs_count=7&theme=midnight-purple"/>
   </div>
-<br>
+
 
  
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/gabrielferroni/count.svg" /></p>
- <br>
+
  
 
  
