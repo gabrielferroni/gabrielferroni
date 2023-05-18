@@ -1,33 +1,39 @@
 
 <h1>Olá, sou o Gabriel Ferroni! 👋</h1>
+</br>
+<p>Sou um estudante de Tecnologia da Informação com foco em desenvolvimento Full Stack. Estou atualmente cursando Análise e Desenvolvimento de Sistemas na univerdade paulista (UNIP). Onde tenho adquirido habilidades e conhecimentos em programação, banco de dados, desenvolvimento web, engenharia de software e outras áreas relacionadas.</p></br>
 
-<p>Atualmente moro em São José dos campos-SP, sou estudante de analise e desenvolvimento de sistemas na univerdade paulista (UNIP).</br>
+<p>Tenho uma forte paixão por programação e estou sempre buscando maneiras de aprimorar minhas habilidades e conhecimentos em tecnologia. Estou particularmente interessado em desenvolvimento web e tenho experiência em linguagens de programação como HTML, CSS, JavaScript e frameworks como React e Node.js.</p></br>
 
-Estou me desenvolvendo em TypeScript e Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks, Redux, HTML5, CSS3) e back-end (com Node, Express, MySQL / MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi) para me tornar um desenvolvedor full stack.</br>
+<p>Além disso, tenho participado de projetos em grupo e individuais, onde tenho aplicado minhas habilidades em desenvolvimento Full Stack para criar soluções tecnológicas eficazes na faculdade e nos cursos online. Também tenho sido ativo em plataformas que contém BootCamp , onde tenho participado de eventos para expandir meu conhecimento e Framework.</p></br>
 
-Gosto de novos desafios e procuro sempre me aperfeiçoar nas áreas de conhecimento, buscando cada vez mais um ótimo desenvolvimento da minha função.</br></p>
+<p>Estou ansioso para explorar novas oportunidades para aplicar minhas habilidades e conhecimentos em um ambiente profissional. Se você estiver procurando por um desenvolvedor Full Stack Junior motivado e dedicado, por favor, entre em contato comigo.</p></br>
+</br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-paiva-1a2b1718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
  <h2>Meus certificados</h2>
+ </br>
  <ul>
- <li>HTML5 e CSS3: Módulo 5 de 5 [200 horas]-Certificado. </br></p>
- <li>PHP: [40 horas]-Certificado. 
- <li>PHP POO: [40 horas]-Certificado. 
- <li>JavaScript: [40 horas]-Certificado.
- <li>Mysql: [40 horas]-Certificado. 
- <li>Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns [146 horas]-<strong>Em andamento.</strong>
+ <li>Curso em Video: HTML5 e CSS3: Módulo 5 de 5 [200 horas]-Certificado. </br></p>
+ <li>Curso em Video: PHP: [40 horas]-Certificado. 
+ <li>Curso em Video: PHP POO: [40 horas]-Certificado. 
+ <li>Curso em Video: JavaScript: [40 horas]-Certificado.
+ <li>Curso em Video: Mysql: [40 horas]-Certificado. 
+ <li>Dev Samurai: JavaScript [5 horas]-<a href="https://class.devsamurai.com.br/certificates/6d66b994-d64d-4702-94df-7c09703be1fa"> Certificado.</a></p></li>
+ <li>Udemy: Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns [146 horas]-<strong>Em andamento.</strong>
  </ul>
  
   <br>
   
   <h2>BootCamp</h2>
+  </br>
  <ul>
  <li>Potência Tech Angular Developer - Powered by iFood [75 horas] - <a href="https://www.dio.me/certificate/B90D5513/share"> Certificado.</a></p>
  
- <br>
+ </br>
  
   <div align="center">
   <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
