@@ -14,24 +14,7 @@
   <a href="https://www.linkedin.com/in/gabriel-paiva-1a2b1718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
- <h2>Meus certificados</h2>
- </br>
- <ul>
- <li>Curso em Video: HTML5 e CSS3: Módulo 5 de 5 [200 horas]-Certificado. </br></p>
- <li>Curso em Video: PHP: [40 horas]-Certificado. 
- <li>Curso em Video: PHP POO: [40 horas]-Certificado. 
- <li>Curso em Video: JavaScript: [40 horas]-Certificado.
- <li>Curso em Video: Mysql: [40 horas]-Certificado. 
- <li>Dev Samurai: JavaScript [5 horas]-<a href="https://class.devsamurai.com.br/certificates/6d66b994-d64d-4702-94df-7c09703be1fa"> Certificado.</a></p></li>
- <li>Udemy: Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns [146 horas]-<strong>Em andamento.</strong>
- </ul>
- 
-  <br>
-  
-  <h2>BootCamp</h2>
-  </br>
- <ul>
- <li>Potência Tech Angular Developer - Powered by iFood [75 horas] - <a href="https://www.dio.me/certificate/B90D5513/share"> Certificado.</a></p>
+
  
  </br>
  
