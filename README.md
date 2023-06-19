@@ -1,14 +1,13 @@
 
-<h1>Olá, sou o Gabriel Ferroni! 👋</h1>
+<h1>Bem-vindo(a) ao meu GitHub!👋</h1>
 </br>
-<p>Sou um estudante de Tecnologia da Informação com foco em desenvolvimento Full Stack. Estou atualmente cursando Análise e Desenvolvimento de Sistemas na univerdade paulista (UNIP). Onde tenho adquirido habilidades e conhecimentos em programação, banco de dados, desenvolvimento web, engenharia de software e outras áreas relacionadas.</p></br>
+<p>Olá, sou Gabriel Ferroni, um desenvolvedor júnior apaixonado por programação e em constante aprendizado. Aqui no meu repositório, você encontrará uma seleção dos meus projetos e trabalhos, que representam minha jornada inicial como desenvolvedor.</p>
 
-<p>Tenho uma forte paixão por programação e estou sempre buscando maneiras de aprimorar minhas habilidades e conhecimentos em tecnologia. Estou particularmente interessado em desenvolvimento web e tenho experiência em linguagens de programação como HTML, CSS, JavaScript e frameworks como React e Node.js.</p></br>
+<p>Ao explorar meu GitHub, você encontrará projetos que vão desde pequenos aplicativos web até exercícios de programação e estudos de caso. Embora eu seja um desenvolvedor júnior, coloquei muito esforço e dedicação em cada projeto para demonstrar minhas habilidades e criatividade. Meu objetivo é mostrar minha paixão pela programação e meu desejo de evoluir como desenvolvedor.</p>
 
-<p>Além disso, tenho participado de projetos em grupo e individuais, onde tenho aplicado minhas habilidades em desenvolvimento Full Stack para criar soluções tecnológicas eficazes na faculdade e nos cursos online. Também tenho sido ativo em plataformas que contém BootCamp , onde tenho participado de eventos para expandir meu conhecimento e Framework.</p></br>
+<p>Agradeço por visitar meu GitHub. Espero que meu portfólio inspire você, se houver alguma pergunta, feedback ou oportunidade de colaboração, não hesite em entrar em contato. Aproveite a exploração dos meus projetos e acompanhe meu crescimento nesta empolgante carreira de desenvolvimento de software!</p>
+<a  href="https://gabrielferroni.github.io/portfolio/" target="_blank">Portifolio.</a>
 
-<p>Estou ansioso para explorar novas oportunidades para aplicar minhas habilidades e conhecimentos em um ambiente profissional. Se você estiver procurando por um desenvolvedor Full Stack Junior motivado e dedicado, por favor, entre em contato comigo.</p></br>
-</br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-paiva-1a2b1718a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
